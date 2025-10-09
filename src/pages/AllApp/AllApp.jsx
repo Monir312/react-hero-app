@@ -1,9 +1,10 @@
 import React from 'react';
 import { FaDownload } from "react-icons/fa6";
 import { FaStar } from "react-icons/fa6";
+import { Link } from 'react-router';
 
 const AllApp = ({allappdata}) => {
-  const { title, image, ratings } = allappdata;
+  const {id, title, image, ratings } = allappdata;
 
   const totalRatings = ratings.reduce((sum, r) => sum + r.count, 0);
 
@@ -15,6 +16,7 @@ const AllApp = ({allappdata}) => {
   const avgRating = (weightedSum / totalRatings).toFixed(2); 
 
   return (
+    <Link to={`/appDetails/${id}`}>
     <div className="rounded-lg overflow-hidden shadow-lg bg-white p-2">
 
       <div className="text-center h-[200px]">
@@ -39,6 +41,7 @@ const AllApp = ({allappdata}) => {
         </div>
       </div>
     </div>
+    </Link>
   );
 };
 
