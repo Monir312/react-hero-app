@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://i.ibb.co/9p9pBqL/spotify.png",
+    "image": "https://i.ibb.co/PGZLHd4n/images-1.jpg",
     "title": "Spotify Music",
     "companyName": "Spotify AB",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/gF7PmZb/whatsapp.png",
+    "image": "https://i.ibb.co/WN2vdS7d/images-2.jpg",
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms Inc.",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/5TgZV0F/google-maps.png",
+    "image": "https://i.ibb.co/CpgKvp86/images-5.png",
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 3,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/tHjD7L3/instagram.png",
+    "image": "https://i.ibb.co/VFjJpkz/Instagram-logo-2022-svg.png",
     "title": "Instagram",
     "companyName": "Meta Platforms Inc.",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co/2Z7R0y7/zoom.png",
+    "image": "https://i.ibb.co/2YShn3HN/zoom-icon.jpg",
     "title": "Zoom Cloud Meetings",
     "companyName": "Zoom Video Communications",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-      "image": "https://i.ibb.co/7NKxFQ3/netflix.png",
+      "image": "https://i.ibb.co/Vcg7CzHn/05c-It-XL96l4-LE9n02-Wf-DR0h-5.webp",
       "title": "Netflix",
       "companyName": "Netflix Inc.",
       "id": 6,
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/8mz2ng2/telegram.png",
+      "image": "https://i.ibb.co/0RZHfW2s/images-6.png",
       "title": "Telegram",
       "companyName": "Telegram FZ-LLC",
       "id": 7,
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/HVx0rXZ/tiktok.png",
+      "image": "https://i.ibb.co/nMDZqrZP/images-7.png",
       "title": "TikTok",
       "companyName": "ByteDance Ltd.",
       "id": 8,
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/xXvG6ZT/slack.png",
+      "image": "https://i.ibb.co/Psc9m5RZ/6911160.png",
       "title": "Slack",
       "companyName": "Slack Technologies",
       "id": 9,
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "image": "https://i.ibb.co/5cKkVkb/dropbox.png",
+      "image": "https://i.ibb.co/S4RBpV4K/images.png",
       "title": "Dropbox",
       "companyName": "Dropbox Inc.",
       "id": 10,
@@ -179,205 +179,205 @@
         { "name": "5 star", "count": 484000 }
       ]
     },
-      {
-        "image": "https://i.ibb.co/jy2V8vq/skype.png",
-        "title": "Skype",
-        "companyName": "Microsoft",
-        "id": 11,
-        "description": "Skype is a globally recognized communication platform that enables voice and video calling, instant messaging, and file sharing for both personal and professional use. It allows users to connect with individuals or groups seamlessly across devices including smartphones, tablets, and desktops. Skype offers high-quality video calls with HD resolution and supports group video conferences with multiple participants. Instant messaging includes text, emojis, GIFs, and multimedia content, ensuring dynamic interaction. Users can share files, images, and documents in real-time, making collaboration efficient and smooth. Skype integrates with Microsoft Office and Outlook, providing easy access to contacts and scheduling. It also offers screen sharing for presentations, webinars, and technical support, enhancing productivity in professional settings. The platform provides secure communication with encryption and authentication protocols to protect user privacy. Skype’s international calling feature allows users to call mobile and landline numbers at competitive rates. Notifications and status updates help users manage availability and stay connected. Regular updates bring new features such as background effects, transcription, and translation services. Skype’s user-friendly interface, cross-platform compatibility, and reliable connectivity make it a preferred choice for global communication, bridging personal and professional interactions effortlessly while supporting collaboration and social engagement worldwide.",
-        "size": 60,
-        "reviews": 950000,
-        "ratingAvg": 4.2,
-        "downloads": 400000000,
-        "ratings": [
-          { "name": "1 star", "count": 22000 },
-          { "name": "2 star", "count": 30000 },
-          { "name": "3 star", "count": 85000 },
-          { "name": "4 star", "count": 210000 },
-          { "name": "5 star", "count": 605000 }
-        ]
-      },
-      {
-        "image": "https://i.ibb.co/5L4YW7p/coursera.png",
-        "title": "Coursera",
-        "companyName": "Coursera Inc.",
-        "id": 12,
-        "description": "Coursera is a leading online learning platform that offers access to high-quality courses, certificates, and degree programs from top universities and institutions worldwide. Learners can explore a wide range of subjects including computer science, business, arts, data science, health, and more. Courses are designed by expert instructors and include video lectures, quizzes, assignments, peer-reviewed projects, and interactive content to provide a comprehensive learning experience. Coursera supports flexible learning schedules, allowing users to study at their own pace, making education accessible for working professionals, students, and lifelong learners. The platform offers guided projects for practical hands-on experience, as well as specialization tracks and professional certificates that enhance career prospects. Coursera integrates with enterprise solutions for corporate training and skill development. Its mobile and desktop apps ensure learners can continue their education anytime, anywhere. Advanced analytics track progress and provide personalized recommendations. Social features like discussion forums and community groups foster collaboration and networking among learners. Coursera’s commitment to high-quality content, flexibility, and recognized credentials has revolutionized online education, empowering individuals to acquire new skills, achieve career goals, and pursue academic excellence globally.",
-        "size": 40,
-        "reviews": 620000,
-        "ratingAvg": 4.6,
-        "downloads": 200000000,
-        "ratings": [
-          { "name": "1 star", "count": 8000 },
-          { "name": "2 star", "count": 12000 },
-          { "name": "3 star", "count": 40000 },
-          { "name": "4 star", "count": 180000 },
-          { "name": "5 star", "count": 392000 }
-        ]
-      },
-      {
-        "image": "https://i.ibb.co/YcT2T7p/evernote.png",
-        "title": "Evernote",
-        "companyName": "Evernote Corporation",
-        "id": 13,
-        "description": "Evernote is a versatile productivity app designed to help users capture, organize, and manage notes, tasks, and projects efficiently. Users can create text notes, to-do lists, voice memos, and attach files, images, and web clippings to keep all important information in one place. Notes can be categorized with notebooks, tags, and search functionality, making retrieval quick and intuitive. Evernote offers seamless synchronization across devices, ensuring that users can access their content from smartphones, tablets, and desktops at any time. Advanced features like document scanning, handwriting recognition, and PDF annotation enhance note-taking capabilities. Evernote also supports collaboration, allowing users to share notes and workspaces with colleagues, classmates, or team members, fostering efficient communication and project management. Integration with calendar apps, email, and other productivity tools streamlines workflow and task management. Security features such as encryption, two-factor authentication, and access controls protect sensitive information. With customizable templates, reminders, and automated organization, Evernote empowers users to plan, track, and execute tasks effectively. The platform is suitable for personal organization, academic work, and professional project management, providing a centralized hub for knowledge management, productivity, and creative expression.",
-        "size": 35,
-        "reviews": 530000,
-        "ratingAvg": 4.3,
-        "downloads": 150000000,
-        "ratings": [
-          { "name": "1 star", "count": 9000 },
-          { "name": "2 star", "count": 14000 },
-          { "name": "3 star", "count": 36000 },
-          { "name": "4 star", "count": 150000 },
-          { "name": "5 star", "count": 330000 }
-        ]
-      },
-      {
-        "image": "https://i.ibb.co/kBjs4nP/adobe-reader.png",
-        "title": "Adobe Acrobat Reader",
-        "companyName": "Adobe Inc.",
-        "id": 14,
-        "description": "Adobe Acrobat Reader is a comprehensive PDF reader that allows users to view, edit, annotate, and manage PDF documents with ease. It offers tools for highlighting, commenting, filling forms, signing documents electronically, and adding notes, making it an essential application for both personal and professional use. Users can open PDFs from local storage, email attachments, or cloud storage services, ensuring flexibility in accessing important files. The app supports advanced features such as scanning documents, OCR recognition, and converting PDFs to other formats. Integration with Adobe Document Cloud enables secure storage, sharing, and collaboration, allowing multiple users to work on the same document simultaneously. Adobe Acrobat Reader ensures compatibility with all PDF standards and offers a user-friendly interface with smooth navigation and search capabilities. Security features such as password protection, redaction, and encryption safeguard sensitive information. Regular updates introduce improved tools, performance enhancements, and accessibility options. Adobe Acrobat Reader is widely recognized for its reliability, versatility, and efficiency, making it the preferred solution for managing PDF documents across educational, corporate, and personal environments.",
-        "size": 70,
-        "reviews": 890000,
-        "ratingAvg": 4.4,
-        "downloads": 350000000,
-        "ratings": [
-          { "name": "1 star", "count": 18000 },
-          { "name": "2 star", "count": 22000 },
-          { "name": "3 star", "count": 67000 },
-          { "name": "4 star", "count": 210000 },
-          { "name": "5 star", "count": 594000 }
-        ]
-      },
-      {
-        "image": "https://i.ibb.co/LN3R5jk/youtube.png",
-        "title": "YouTube",
-        "companyName": "Google LLC",
-        "id": 15,
-        "description": "YouTube is the world's largest video-sharing platform, enabling users to upload, view, share, and engage with content globally. It offers a wide array of videos including tutorials, entertainment, music, educational content, live streams, and user-generated content. Creators can build channels, monetize their content, and interact with audiences through comments, likes, and community posts. YouTube's recommendation algorithm personalizes video feeds based on watch history, likes, and subscriptions, providing an engaging experience for users. The platform supports high-definition and 4K streaming, captions, subtitles, and various accessibility features to accommodate diverse audiences. YouTube also offers live streaming, premieres, Shorts for short-form videos, and community engagement tools for creators. Integration with Google accounts allows seamless access, subscriptions, playlists, and cross-device synchronization. Users can create watchlists, save favorites, and participate in trending challenges or viral content. With robust copyright management, security features, and parental controls, YouTube ensures safe and responsible viewing. Its combination of vast content diversity, social interaction, and creative opportunities has made YouTube an essential platform for entertainment, learning, and global communication, connecting billions of users worldwide.",
-        "size": 65,
-        "reviews": 5000000,
-        "ratingAvg": 4.7,
-        "downloads": 5000000000,
-        "ratings": [
-          { "name": "1 star", "count": 200000 },
-          { "name": "2 star", "count": 320000 },
-          { "name": "3 star", "count": 700000 },
-          { "name": "4 star", "count": 1200000 },
-          { "name": "5 star", "count": 2700000 }
-        ]
-      },
-        {
-          "image": "https://i.ibb.co/FH1YpY7/facebook.png",
-          "title": "Facebook",
-          "companyName": "Meta Platforms Inc.",
-          "id": 16,
-          "description": "Facebook is a globally popular social networking platform that connects billions of users, allowing them to communicate, share updates, photos, videos, and engage with communities of interest. It offers a personalized news feed, events, groups, and pages for businesses, creators, and organizations to reach their audiences effectively. Users can interact through likes, comments, and shares, fostering social engagement. Facebook Messenger integration enables instant messaging, voice, and video calls with friends and family. The platform supports marketplace features, live streaming, and gaming, catering to entertainment and commerce needs. With robust privacy settings, account management tools, and security features, Facebook ensures safe and controlled user experiences. Businesses and creators can run targeted ads, gain insights through analytics, and connect with followers worldwide. The platform's user-friendly interface and mobile apps provide seamless navigation across devices. Facebook continues to innovate with virtual reality, social commerce, and collaborative features, maintaining its position as a central hub for social interaction, digital communication, and content sharing globally, while empowering users to stay connected, informed, and engaged.",
-          "size": 55,
-          "reviews": 4100000,
-          "ratingAvg": 4.1,
-          "downloads": 4000000000,
-          "ratings": [
-            { "name": "1 star", "count": 210000 },
-            { "name": "2 star", "count": 250000 },
-            { "name": "3 star", "count": 500000 },
-            { "name": "4 star", "count": 1100000 },
-            { "name": "5 star", "count": 2150000 }
-          ]
-        },
-        {
-          "image": "https://i.ibb.co/2y3qfVx/snapchat.png",
-          "title": "Snapchat",
-          "companyName": "Snap Inc.",
-          "id": 17,
-          "description": "Snapchat is an innovative multimedia messaging app designed for real-time communication and creative content sharing. Users can send photos, videos, and messages that disappear after being viewed, adding a sense of spontaneity and fun. The platform features Stories, Spotlight, and Discover sections, allowing users to share moments with friends, explore content from creators, and stay updated on trending news and entertainment. Snapchat's augmented reality (AR) filters, lenses, and Bitmoji avatars enhance the user experience with playful and interactive features. The app supports video and voice calling, chat, and group messaging, making it suitable for both social interaction and private communication. Users can subscribe to channels, follow celebrities, and discover events, ensuring a personalized and engaging experience. Snapchat emphasizes privacy with disappearing content and customizable settings. Its creative tools, filters, and collaborative features have made it a favorite among younger audiences worldwide, encouraging self-expression, storytelling, and interactive social engagement in a secure and entertaining digital environment.",
-          "size": 48,
-          "reviews": 2100000,
-          "ratingAvg": 4.0,
-          "downloads": 1000000000,
-          "ratings": [
-            { "name": "1 star", "count": 32000 },
-            { "name": "2 star", "count": 50000 },
-            { "name": "3 star", "count": 140000 },
-            { "name": "4 star", "count": 680000 },
-            { "name": "5 star", "count": 1342000 }
-          ]
-        },
-        {
-          "image": "https://i.ibb.co/2WqY2Pc/linkedin.png",
-          "title": "LinkedIn",
-          "companyName": "LinkedIn Corporation",
-          "id": 18,
-          "description": "LinkedIn is the premier professional networking platform that connects millions of professionals, companies, and organizations worldwide. It enables users to build professional profiles, showcase skills, and expand their networks through connections, recommendations, and endorsements. LinkedIn provides tools for job searching, recruitment, and career development, making it essential for both individuals and companies seeking talent. The platform features posts, articles, and updates to share knowledge, insights, and industry trends. Users can participate in professional groups, discussions, and events, facilitating learning and collaboration within specific industries or interest areas. LinkedIn Learning offers online courses and certifications to enhance skills and advance careers. Companies can create pages, post job opportunities, run targeted advertising campaigns, and engage with audiences to build brand presence. With analytics, messaging, and content sharing, LinkedIn fosters professional growth, networking, and thought leadership. Its mobile and desktop apps provide seamless access, ensuring users can manage connections, receive notifications, and interact with content anytime. LinkedIn’s combination of career tools, networking, and educational resources makes it indispensable for professional advancement and global business engagement.",
-          "size": 50,
-          "reviews": 950000,
-          "ratingAvg": 4.4,
-          "downloads": 500000000,
-          "ratings": [
-            { "name": "1 star", "count": 12000 },
-            { "name": "2 star", "count": 20000 },
-            { "name": "3 star", "count": 50000 },
-            { "name": "4 star", "count": 230000 },
-            { "name": "5 star", "count": 635000 }
-          ]
-        },
-        {
-          "image": "https://i.ibb.co/F3HQgHf/shazam.png",
-          "title": "Shazam",
-          "companyName": "Apple Inc.",
-          "id": 19,
-          "description": "Shazam is a powerful music discovery app that instantly identifies songs playing around you. By using the microphone of your device, Shazam listens to a song for a few seconds and provides accurate information about the track, artist, album, and lyrics. Users can explore Shazam charts, trending tracks, and playlists curated from discoveries made worldwide. The app integrates with Apple Music, Spotify, and other streaming platforms, enabling users to save and listen to their favorite songs instantly. Shazam provides real-time lyrics, recommendations, and sharing options for social media platforms. It also includes features such as auto Shazam, which continuously identifies music in the background, and song recognition history for tracking past discoveries. Shazam’s user-friendly interface, fast recognition, and engaging visuals make music exploration easy and enjoyable. It is suitable for music enthusiasts, professionals, and casual listeners who want to discover new music, understand artists better, and share their musical experiences with friends. The app’s innovative technology and global reach have established it as one of the most trusted and widely used music identification tools worldwide.",
-          "size": 38,
-          "reviews": 450000,
-          "ratingAvg": 4.6,
-          "downloads": 200000000,
-          "ratings": [
-            { "name": "1 star", "count": 7000 },
-            { "name": "2 star", "count": 12000 },
-            { "name": "3 star", "count": 25000 },
-            { "name": "4 star", "count": 90000 },
-            { "name": "5 star", "count": 313000 }
-          ]
-        },
-        {
-          "image": "https://i.ibb.co/cXj3yzT/trello.png",
-          "title": "Trello",
-          "companyName": "Atlassian",
-          "id": 20,
-          "description": "Trello is a visual project management and collaboration tool that helps individuals, teams, and organizations organize tasks and workflows effectively. Using boards, lists, and cards, users can manage projects, track progress, assign responsibilities, set deadlines, and attach files or comments for clear communication. Trello offers templates, automation, and integration with other apps such as Slack, Google Drive, and Jira, streamlining project management across platforms. Users can prioritize tasks, set reminders, and monitor project milestones to ensure timely completion. Trello supports collaborative work, allowing team members to comment, share updates, and visualize progress in real-time. The mobile and web apps provide seamless access, enabling users to stay productive from anywhere. With a focus on simplicity, flexibility, and transparency, Trello transforms complex workflows into intuitive visual boards. It is suitable for software development, marketing campaigns, event planning, academic projects, and personal task management. Trello’s user-friendly design, customization options, and powerful integrations have made it a leading solution for productivity, task management, and effective teamwork worldwide.",
-          "size": 42,
-          "reviews": 580000,
-          "ratingAvg": 4.5,
-          "downloads": 300000000,
-          "ratings": [
-            { "name": "1 star", "count": 9000 },
-            { "name": "2 star", "count": 14000 },
-            { "name": "3 star", "count": 36000 },
-            { "name": "4 star", "count": 180000 },
-            { "name": "5 star", "count": 347000 }
-          ]
-        },
-        {
-          "image": "https://i.ibb.co/hVdWz2S/google-drive.png",
-          "title": "Google Drive",
-          "companyName": "Google LLC",
-          "id": 21,
-          "description": "Google Drive is a cloud storage and file synchronization service that enables users to securely store, access, share, and collaborate on files from any device. It provides ample storage space for documents, photos, videos, spreadsheets, and presentations, making it ideal for personal, educational, and professional use. Users can create, edit, and collaborate in real-time using integrated tools such as Google Docs, Sheets, and Slides. Google Drive supports advanced search, version history, and file organization through folders and labels for efficient management. Sharing options allow users to control access permissions, including view, comment, and edit rights, facilitating collaboration with colleagues, classmates, or clients. The platform integrates seamlessly with Gmail, Google Workspace, and third-party apps, enhancing productivity and workflow. Google Drive’s mobile and desktop applications enable offline access, ensuring work continuity without internet connectivity. Security features such as encryption, two-factor authentication, and activity monitoring protect sensitive information. Notifications, quick previews, and easy navigation improve the user experience. Google Drive empowers users to store, share, and collaborate efficiently in a secure, reliable, and scalable cloud environment, making it a central hub for personal organization, professional productivity, and educational activities worldwide.",
-          "size": 55,
-          "reviews": 1100000,
-          "ratingAvg": 4.6,
-          "downloads": 800000000,
-          "ratings": [
-            { "name": "1 star", "count": 15000 },
-            { "name": "2 star", "count": 20000 },
-            { "name": "3 star", "count": 70000 },
-            { "name": "4 star", "count": 250000 },
-            { "name": "5 star", "count": 978000 }
-          ]
-        }
+    {
+      "image": "https://i.ibb.co/jPV9ty7Y/images.jpg",
+      "title": "Skype",
+      "companyName": "Microsoft",
+      "id": 11,
+      "description": "Skype is a globally recognized communication platform that enables voice and video calling, instant messaging, and file sharing for both personal and professional use. It allows users to connect with individuals or groups seamlessly across devices including smartphones, tablets, and desktops. Skype offers high-quality video calls with HD resolution and supports group video conferences with multiple participants. Instant messaging includes text, emojis, GIFs, and multimedia content, ensuring dynamic interaction. Users can share files, images, and documents in real-time, making collaboration efficient and smooth. Skype integrates with Microsoft Office and Outlook, providing easy access to contacts and scheduling. It also offers screen sharing for presentations, webinars, and technical support, enhancing productivity in professional settings. The platform provides secure communication with encryption and authentication protocols to protect user privacy. Skype’s international calling feature allows users to call mobile and landline numbers at competitive rates. Notifications and status updates help users manage availability and stay connected. Regular updates bring new features such as background effects, transcription, and translation services. Skype’s user-friendly interface, cross-platform compatibility, and reliable connectivity make it a preferred choice for global communication, bridging personal and professional interactions effortlessly while supporting collaboration and social engagement worldwide.",
+      "size": 60,
+      "reviews": 950000,
+      "ratingAvg": 4.2,
+      "downloads": 400000000,
+      "ratings": [
+        { "name": "1 star", "count": 22000 },
+        { "name": "2 star", "count": 30000 },
+        { "name": "3 star", "count": 85000 },
+        { "name": "4 star", "count": 210000 },
+        { "name": "5 star", "count": 605000 }
       ]
+    },
+    {
+      "image": "https://i.ibb.co/Swks9x1B/images-1.png",
+      "title": "Coursera",
+      "companyName": "Coursera Inc.",
+      "id": 12,
+      "description": "Coursera is a leading online learning platform that offers access to high-quality courses, certificates, and degree programs from top universities and institutions worldwide. Learners can explore a wide range of subjects including computer science, business, arts, data science, health, and more. Courses are designed by expert instructors and include video lectures, quizzes, assignments, peer-reviewed projects, and interactive content to provide a comprehensive learning experience. Coursera supports flexible learning schedules, allowing users to study at their own pace, making education accessible for working professionals, students, and lifelong learners. The platform offers guided projects for practical hands-on experience, as well as specialization tracks and professional certificates that enhance career prospects. Coursera integrates with enterprise solutions for corporate training and skill development. Its mobile and desktop apps ensure learners can continue their education anytime, anywhere. Advanced analytics track progress and provide personalized recommendations. Social features like discussion forums and community groups foster collaboration and networking among learners. Coursera’s commitment to high-quality content, flexibility, and recognized credentials has revolutionized online education, empowering individuals to acquire new skills, achieve career goals, and pursue academic excellence globally.",
+      "size": 40,
+      "reviews": 620000,
+      "ratingAvg": 4.6,
+      "downloads": 200000000,
+      "ratings": [
+        { "name": "1 star", "count": 8000 },
+        { "name": "2 star", "count": 12000 },
+        { "name": "3 star", "count": 40000 },
+        { "name": "4 star", "count": 180000 },
+        { "name": "5 star", "count": 392000 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/XZLqYPqP/images-2.png",
+      "title": "Evernote",
+      "companyName": "Evernote Corporation",
+      "id": 13,
+      "description": "Evernote is a versatile productivity app designed to help users capture, organize, and manage notes, tasks, and projects efficiently. Users can create text notes, to-do lists, voice memos, and attach files, images, and web clippings to keep all important information in one place. Notes can be categorized with notebooks, tags, and search functionality, making retrieval quick and intuitive. Evernote offers seamless synchronization across devices, ensuring that users can access their content from smartphones, tablets, and desktops at any time. Advanced features like document scanning, handwriting recognition, and PDF annotation enhance note-taking capabilities. Evernote also supports collaboration, allowing users to share notes and workspaces with colleagues, classmates, or team members, fostering efficient communication and project management. Integration with calendar apps, email, and other productivity tools streamlines workflow and task management. Security features such as encryption, two-factor authentication, and access controls protect sensitive information. With customizable templates, reminders, and automated organization, Evernote empowers users to plan, track, and execute tasks effectively. The platform is suitable for personal organization, academic work, and professional project management, providing a centralized hub for knowledge management, productivity, and creative expression.",
+      "size": 35,
+      "reviews": 530000,
+      "ratingAvg": 4.3,
+      "downloads": 150000000,
+      "ratings": [
+        { "name": "1 star", "count": 9000 },
+        { "name": "2 star", "count": 14000 },
+        { "name": "3 star", "count": 36000 },
+        { "name": "4 star", "count": 150000 },
+        { "name": "5 star", "count": 330000 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/svFYwqbh/images-3.png",
+      "title": "Adobe Acrobat Reader",
+      "companyName": "Adobe Inc.",
+      "id": 14,
+      "description": "Adobe Acrobat Reader is a comprehensive PDF reader that allows users to view, edit, annotate, and manage PDF documents with ease. It offers tools for highlighting, commenting, filling forms, signing documents electronically, and adding notes, making it an essential application for both personal and professional use. Users can open PDFs from local storage, email attachments, or cloud storage services, ensuring flexibility in accessing important files. The app supports advanced features such as scanning documents, OCR recognition, and converting PDFs to other formats. Integration with Adobe Document Cloud enables secure storage, sharing, and collaboration, allowing multiple users to work on the same document simultaneously. Adobe Acrobat Reader ensures compatibility with all PDF standards and offers a user-friendly interface with smooth navigation and search capabilities. Security features such as password protection, redaction, and encryption safeguard sensitive information. Regular updates introduce improved tools, performance enhancements, and accessibility options. Adobe Acrobat Reader is widely recognized for its reliability, versatility, and efficiency, making it the preferred solution for managing PDF documents across educational, corporate, and personal environments.",
+      "size": 70,
+      "reviews": 890000,
+      "ratingAvg": 4.4,
+      "downloads": 350000000,
+      "ratings": [
+        { "name": "1 star", "count": 18000 },
+        { "name": "2 star", "count": 22000 },
+        { "name": "3 star", "count": 67000 },
+        { "name": "4 star", "count": 210000 },
+        { "name": "5 star", "count": 594000 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/3Y52KTRq/images-4.png",
+      "title": "YouTube",
+      "companyName": "Google LLC",
+      "id": 15,
+      "description": "YouTube is the world's largest video-sharing platform, enabling users to upload, view, share, and engage with content globally. It offers a wide array of videos including tutorials, entertainment, music, educational content, live streams, and user-generated content. Creators can build channels, monetize their content, and interact with audiences through comments, likes, and community posts. YouTube's recommendation algorithm personalizes video feeds based on watch history, likes, and subscriptions, providing an engaging experience for users. The platform supports high-definition and 4K streaming, captions, subtitles, and various accessibility features to accommodate diverse audiences. YouTube also offers live streaming, premieres, Shorts for short-form videos, and community engagement tools for creators. Integration with Google accounts allows seamless access, subscriptions, playlists, and cross-device synchronization. Users can create watchlists, save favorites, and participate in trending challenges or viral content. With robust copyright management, security features, and parental controls, YouTube ensures safe and responsible viewing. Its combination of vast content diversity, social interaction, and creative opportunities has made YouTube an essential platform for entertainment, learning, and global communication, connecting billions of users worldwide.",
+      "size": 65,
+      "reviews": 5000000,
+      "ratingAvg": 4.7,
+      "downloads": 5000000000,
+      "ratings": [
+        { "name": "1 star", "count": 200000 },
+        { "name": "2 star", "count": 320000 },
+        { "name": "3 star", "count": 700000 },
+        { "name": "4 star", "count": 1200000 },
+        { "name": "5 star", "count": 2700000 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/wZbhqwYt/apps-37935-9007199266245907-b029bd80-381a-4869-854f-bac6f359c5c9.png",
+      "title": "Facebook",
+      "companyName": "Meta Platforms Inc.",
+      "id": 16,
+      "description": "Facebook is a globally popular social networking platform that connects billions of users, allowing them to communicate, share updates, photos, videos, and engage with communities of interest. It offers a personalized news feed, events, groups, and pages for businesses, creators, and organizations to reach their audiences effectively. Users can interact through likes, comments, and shares, fostering social engagement. Facebook Messenger integration enables instant messaging, voice, and video calls with friends and family. The platform supports marketplace features, live streaming, and gaming, catering to entertainment and commerce needs. With robust privacy settings, account management tools, and security features, Facebook ensures safe and controlled user experiences. Businesses and creators can run targeted ads, gain insights through analytics, and connect with followers worldwide. The platform's user-friendly interface and mobile apps provide seamless navigation across devices. Facebook continues to innovate with virtual reality, social commerce, and collaborative features, maintaining its position as a central hub for social interaction, digital communication, and content sharing globally, while empowering users to stay connected, informed, and engaged.",
+      "size": 55,
+      "reviews": 4100000,
+      "ratingAvg": 4.1,
+      "downloads": 4000000000,
+      "ratings": [
+        { "name": "1 star", "count": 210000 },
+        { "name": "2 star", "count": 250000 },
+        { "name": "3 star", "count": 500000 },
+        { "name": "4 star", "count": 1100000 },
+        { "name": "5 star", "count": 2150000 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/Txy6hrd4/images-7.png",
+      "title": "Snapchat",
+      "companyName": "Snap Inc.",
+      "id": 17,
+      "description": "Snapchat is an innovative multimedia messaging app designed for real-time communication and creative content sharing. Users can send photos, videos, and messages that disappear after being viewed, adding a sense of spontaneity and fun. The platform features Stories, Spotlight, and Discover sections, allowing users to share moments with friends, explore content from creators, and stay updated on trending news and entertainment. Snapchat's augmented reality (AR) filters, lenses, and Bitmoji avatars enhance the user experience with playful and interactive features. The app supports video and voice calling, chat, and group messaging, making it suitable for both social interaction and private communication. Users can subscribe to channels, follow celebrities, and discover events, ensuring a personalized and engaging experience. Snapchat emphasizes privacy with disappearing content and customizable settings. Its creative tools, filters, and collaborative features have made it a favorite among younger audiences worldwide, encouraging self-expression, storytelling, and interactive social engagement in a secure and entertaining digital environment.",
+      "size": 48,
+      "reviews": 2100000,
+      "ratingAvg": 4.0,
+      "downloads": 1000000000,
+      "ratings": [
+        { "name": "1 star", "count": 32000 },
+        { "name": "2 star", "count": 50000 },
+        { "name": "3 star", "count": 140000 },
+        { "name": "4 star", "count": 680000 },
+        { "name": "5 star", "count": 1342000 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/S7yJHmLG/linkedin-statistics-1024x512.png",
+      "title": "LinkedIn",
+      "companyName": "LinkedIn Corporation",
+      "id": 18,
+      "description": "LinkedIn is the premier professional networking platform that connects millions of professionals, companies, and organizations worldwide. It enables users to build professional profiles, showcase skills, and expand their networks through connections, recommendations, and endorsements. LinkedIn provides tools for job searching, recruitment, and career development, making it essential for both individuals and companies seeking talent. The platform features posts, articles, and updates to share knowledge, insights, and industry trends. Users can participate in professional groups, discussions, and events, facilitating learning and collaboration within specific industries or interest areas. LinkedIn Learning offers online courses and certifications to enhance skills and advance careers. Companies can create pages, post job opportunities, run targeted advertising campaigns, and engage with audiences to build brand presence. With analytics, messaging, and content sharing, LinkedIn fosters professional growth, networking, and thought leadership. Its mobile and desktop apps provide seamless access, ensuring users can manage connections, receive notifications, and interact with content anytime. LinkedIn’s combination of career tools, networking, and educational resources makes it indispensable for professional advancement and global business engagement.",
+      "size": 50,
+      "reviews": 950000,
+      "ratingAvg": 4.4,
+      "downloads": 500000000,
+      "ratings": [
+        { "name": "1 star", "count": 12000 },
+        { "name": "2 star", "count": 20000 },
+        { "name": "3 star", "count": 50000 },
+        { "name": "4 star", "count": 230000 },
+        { "name": "5 star", "count": 635000 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/C54ZXvW6/unnamed-1.png",
+      "title": "Shazam",
+      "companyName": "Apple Inc.",
+      "id": 19,
+      "description": "Shazam is a powerful music discovery app that instantly identifies songs playing around you. By using the microphone of your device, Shazam listens to a song for a few seconds and provides accurate information about the track, artist, album, and lyrics. Users can explore Shazam charts, trending tracks, and playlists curated from discoveries made worldwide. The app integrates with Apple Music, Spotify, and other streaming platforms, enabling users to save and listen to their favorite songs instantly. Shazam provides real-time lyrics, recommendations, and sharing options for social media platforms. It also includes features such as auto Shazam, which continuously identifies music in the background, and song recognition history for tracking past discoveries. Shazam’s user-friendly interface, fast recognition, and engaging visuals make music exploration easy and enjoyable. It is suitable for music enthusiasts, professionals, and casual listeners who want to discover new music, understand artists better, and share their musical experiences with friends. The app’s innovative technology and global reach have established it as one of the most trusted and widely used music identification tools worldwide.",
+      "size": 38,
+      "reviews": 450000,
+      "ratingAvg": 4.6,
+      "downloads": 200000000,
+      "ratings": [
+        { "name": "1 star", "count": 7000 },
+        { "name": "2 star", "count": 12000 },
+        { "name": "3 star", "count": 25000 },
+        { "name": "4 star", "count": 90000 },
+        { "name": "5 star", "count": 313000 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/7N4PmXxC/unnamed-2.png",
+      "title": "Trello",
+      "companyName": "Atlassian",
+      "id": 20,
+      "description": "Trello is a visual project management and collaboration tool that helps individuals, teams, and organizations organize tasks and workflows effectively. Using boards, lists, and cards, users can manage projects, track progress, assign responsibilities, set deadlines, and attach files or comments for clear communication. Trello offers templates, automation, and integration with other apps such as Slack, Google Drive, and Jira, streamlining project management across platforms. Users can prioritize tasks, set reminders, and monitor project milestones to ensure timely completion. Trello supports collaborative work, allowing team members to comment, share updates, and visualize progress in real-time. The mobile and web apps provide seamless access, enabling users to stay productive from anywhere. With a focus on simplicity, flexibility, and transparency, Trello transforms complex workflows into intuitive visual boards. It is suitable for software development, marketing campaigns, event planning, academic projects, and personal task management. Trello’s user-friendly design, customization options, and powerful integrations have made it a leading solution for productivity, task management, and effective teamwork worldwide.",
+      "size": 42,
+      "reviews": 580000,
+      "ratingAvg": 4.5,
+      "downloads": 300000000,
+      "ratings": [
+        { "name": "1 star", "count": 9000 },
+        { "name": "2 star", "count": 14000 },
+        { "name": "3 star", "count": 36000 },
+        { "name": "4 star", "count": 180000 },
+        { "name": "5 star", "count": 347000 }
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/cXSzp0WB/images-6.png",
+      "title": "Google Drive",
+      "companyName": "Google LLC",
+      "id": 21,
+      "description": "Google Drive is a cloud storage and file synchronization service that enables users to securely store, access, share, and collaborate on files from any device. It provides ample storage space for documents, photos, videos, spreadsheets, and presentations, making it ideal for personal, educational, and professional use. Users can create, edit, and collaborate in real-time using integrated tools such as Google Docs, Sheets, and Slides. Google Drive supports advanced search, version history, and file organization through folders and labels for efficient management. Sharing options allow users to control access permissions, including view, comment, and edit rights, facilitating collaboration with colleagues, classmates, or clients. The platform integrates seamlessly with Gmail, Google Workspace, and third-party apps, enhancing productivity and workflow. Google Drive’s mobile and desktop applications enable offline access, ensuring work continuity without internet connectivity. Security features such as encryption, two-factor authentication, and activity monitoring protect sensitive information. Notifications, quick previews, and easy navigation improve the user experience. Google Drive empowers users to store, share, and collaborate efficiently in a secure, reliable, and scalable cloud environment, making it a central hub for personal organization, professional productivity, and educational activities worldwide.",
+      "size": 55,
+      "reviews": 1100000,
+      "ratingAvg": 4.6,
+      "downloads": 800000000,
+      "ratings": [
+        { "name": "1 star", "count": 15000 },
+        { "name": "2 star", "count": 20000 },
+        { "name": "3 star", "count": 70000 },
+        { "name": "4 star", "count": 250000 },
+        { "name": "5 star", "count": 978000 }
+      ]
+    }
+]
       
     
   
