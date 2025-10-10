@@ -1,14 +1,39 @@
 import React from 'react';
 import { FaGithub } from 'react-icons/fa6';
-import { Link } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import LogoImg from '../../assets/logo.png'
+import './NavLink.css'
 
 const Navbar = () => {
   const links = <>
-    <Link to='/'><li className='m-2 font-semibold text-[16px]'>Home</li></Link>
-    <Link to='/apps'><li className='m-2 font-semibold text-[16px]'>Apps</li></Link>
-    <Link to='/installation'><li className='m-2 font-semibold text-[16px]'>Installation</li></Link>
+    <ul className="flex">
+      <li className='m-2 font-semibold text-[16px]'>
+        <NavLink 
+          to="/" 
+          className={({ isActive }) => isActive ? "active" : undefined}
+        >
+          Home
+        </NavLink>
+      </li>
+      <li className='m-2 font-semibold text-[16px]'>
+        <NavLink 
+          to="/apps" 
+          className={({ isActive }) => isActive ? "active" : undefined}
+        >
+          Apps
+        </NavLink>
+      </li>
+      <li className='m-2 font-semibold text-[16px]'>
+        <NavLink 
+          to="/installation" 
+          className={({ isActive }) => isActive ? "active" : undefined}
+        >
+          Installation
+        </NavLink>
+      </li>
+    </ul>
   </>
+
   return (
     <div>
       <div className="navbar bg-base-100 shadow-sm">

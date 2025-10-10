@@ -6,9 +6,13 @@ import { RouterProvider } from 'react-router'
 import { router } from './Routes/Routes.jsx'
 import { InstalledAppsProvider } from './pages/InstalledApps/InstalledAppsContext.jsx'
 
+import { ToastContainer } from 'react-toastify'
+
+
 
 createRoot(document.getElementById('root')).render(
   <InstalledAppsProvider>
     <RouterProvider router={router}></RouterProvider>
+    <ToastContainer position="top-center" autoClose={2000} theme="colored" />
   </InstalledAppsProvider>
 )

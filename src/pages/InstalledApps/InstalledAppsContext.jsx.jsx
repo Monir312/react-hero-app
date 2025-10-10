@@ -1,4 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
+import { toast } from 'react-toastify';
 
 const InstalledAppsContext = createContext();
 
@@ -15,6 +16,7 @@ export const InstalledAppsProvider = ({ children }) => {
   useEffect(() => {
     if (installedApps.length > 0) {
       localStorage.setItem('installedApps', JSON.stringify(installedApps));
+
     } else {
       localStorage.removeItem('installedApps');
     }
@@ -24,12 +26,15 @@ export const InstalledAppsProvider = ({ children }) => {
   const addApp = (app) => {
     setInstalledApps((prevApps) => {
       if (prevApps.some((a) => a.title === app.title)) return prevApps;
+      toast.success('App Installed Successfully');
       return [...prevApps, app];
     });
   };
 
   const removeApp = (title) => {
     setInstalledApps((prevApps) => prevApps.filter((app) => app.title !== title));
+    toast.info('App Uninstalled Successfully');
+    return;
   };
 
   return (
