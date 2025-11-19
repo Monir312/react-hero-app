@@ -64,7 +64,7 @@ Overall, **Hero Apps Store** is a complete, modern, and efficient solution for b
 
 ### **Deployment:**
 
-* Vercel / Netlify / Cloudflare
+* Netlify
 
 ---
 
